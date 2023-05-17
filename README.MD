@@ -107,7 +107,7 @@ Since we are open-source 💜 you can get some inspiration from our [existing pl
 Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their project. 
 
 1. Creating a new branch
-2. Making changes on the new branch
+2. Making changes on the new branch( the given repository is template for plugin, so you can use it)
 3. Creating a Pull Request to merge changes into main branch on or before the assignment deadline.
 3. Using GitHub Discussions to ask any relevant questions regarding the project
 
