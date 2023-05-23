@@ -43,6 +43,12 @@ In this role, you will participate in various Engineering tasks as part of our t
 
 
 ### Important Note
+| Octernship info      | Timelines|
+| -------------        | --------------        |
+| Assignment Deadline  | 20 June 2023         |
+| Project Duration     | 3 weeks              |
+| Octernship Duration  | 3 months              |
+
 Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Amplication, joining as as an intern for 1-3 months.
 
 
