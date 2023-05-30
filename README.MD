@@ -49,7 +49,7 @@ In this role, you will participate in various Engineering tasks as part of our t
 | Project Duration     | 3 weeks              |
 | Octernship Duration  | Min: 1 Month, can be extended upto 3 months based on performance |
 
-Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Amplication, joining as as an intern for atleast one month and we can extend it to three months based on your performance.
+Working on the project serves as your application and it is unpaid. The payment is when you are selected as an official octern with Amplication, joining as as an intern for at least one month and we can extend it to three months based on your performance.
 
 
 ### Recommended qualifications
