@@ -45,7 +45,7 @@ In this role, you will participate in various Engineering tasks as part of our t
 ### Important Note
 | Octernship info      | Timelines|
 | -------------        | --------------        |
-| Project Deadline  | 26 June 2023         |
+| Project Deadline  | 05 July 2023         |
 | Project Duration     | 3 weeks              |
 | Octernship Duration  | Min: 1 Month, can be extended upto 3 months based on performance |
 
